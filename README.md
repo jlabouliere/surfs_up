@@ -1,6 +1,6 @@
 # Surf's Up Challenge
 ## Overview
-Using the hawaii.sqlite data, an analysis for June and December temperatures is requested.  Both months were extracted individually for daily measurements of the temperature.  Descriptive statistics were also defined for each month.  For additional information and queries, queries for June and December precipitation were included with a joined data frame to view a combined descriptive statistics.
+Using the hawaii.sqlite data, an analysis for June and December temperatures is requested to determine feasibility of year round ice cream and surf shop business.  Both months were extracted individually for daily measurements of the temperature.  Descriptive statistics were also defined for each month.  For additional information and queries, queries for June and December precipitation were included with a joined data frame to view a combined descriptive statistics.
 
 
 
@@ -25,7 +25,7 @@ Using the hawaii.sqlite data, an analysis for June and December temperatures is 
   * ![jun_dec_prcp](https://user-images.githubusercontent.com/98665941/171322462-820162b5-b1ca-49ea-a8a6-f7c9c59f9d68.png)
   * ![jun_dec_prcp_desc](https://user-images.githubusercontent.com/98665941/171322473-9187e084-4ea4-47af-872f-66e84075460a.png)
 ## Summary
-Overall weather during the months of June and December indicate a pleasant environment with 
+Overall weather during the months of June and December indicate a pleasant environment with less than a quarter inch of average precipitation.  Idealy, the surfing business could remain supported year round.  With December temps remaining somewhat mild and barely averaging into the low 70s though, ice cream sales may be muted for much of the month. Would not recommend year round commitment to ice cream sales without additional market research other than holidays where people from colder climates are visiting and traffic to the beaches is heavier.
 
 
 
